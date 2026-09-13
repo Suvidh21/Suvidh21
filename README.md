@@ -41,8 +41,20 @@ Git • GitHub • VS Code
 
 <!-- We'll customize this section together -->
 
-### 🔹 Project 1
-> Coming soon...
+### 🧊 CUBE — Service Request Data Management & Visualization
+
+> An ETL-driven desktop + web analytics application built to transform raw Service Request data into actionable operational insights, automated reports, and interactive visualizations.
+
+**🛠️ Python · Tkinter · Pandas · OpenPyXL · Plotly Dash**
+
+- 📥 **ETL Pipeline** — Extract, transform, clean, and normalize raw Excel data
+- 📊 **Interactive Dashboard** — Visualize SR trends, TAT, ageing, backlog, and repair insights
+- 📑 **Automated Reporting** — Generate specialized Excel reports (TF1–TF4)
+- 🔄 **Desktop ↔ Web Integration** — Chart-driven drill-down from dashboard analytics to individual SR records
+
+💼 **Developed & deployed during my internship at Secure Meters Ltd.**
+
+🔗 [**View Project →**](https://github.com/Suvidh21/CUBE)
 
 ### 🔹 Project 2
 > Coming soon...
