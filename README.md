@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Suvidh21/Suvidh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! 👋 I'm Suvidh Mathur
 
-Here are some ideas to get you started:
+### 💻 Software Developer | 🐍 Python | 🌐 Web | 🤖 AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+things+that+solve+problems+🚀;Learning+%26+experimenting+every+day+🌱;Turning+ideas+into+working+projects+💡" alt="Typing SVG" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suvidh21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvidh-mathur/)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software developer who enjoys building projects, exploring new technologies,
+and turning ideas into working solutions.
+
+- 🔭 Currently building and experimenting with new projects
+- 🌱 Constantly learning and improving my development skills
+- 💡 Interested in software development, AI/ML and useful applications
+- 🚀 I learn best by building real things
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+Python • JavaScript • C++ • HTML • CSS
+
+### 🔧 Tools & Technologies
+Git • GitHub • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+<!-- We'll customize this section together -->
+
+### 🔹 Project 1
+> Coming soon...
+
+### 🔹 Project 2
+> Coming soon...
+
+### 🔹 Project 3
+> Coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Suvidh21&show_icons=true&hide_border=true&theme=transparent" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvidh21&layout=compact&hide_border=true&theme=transparent" height="165">
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for stopping by!
+
+</div>
