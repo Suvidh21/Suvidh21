@@ -41,6 +41,24 @@ Git • GitHub • VS Code
 
 <!-- We'll customize this section together -->
 
+### ### Project 1
+🤖 DR. MIGI — AI Healthcare Companion
+
+> An ongoing AI research & engineering project exploring local LLM inference, 
+> Retrieval-Augmented Generation (RAG), memory systems, and clinical decision support.
+
+**🧠 Python · PyTorch · Hugging Face · Qwen 2.5 · ChromaDB · RAG**
+
+- 🧬 **Clinical Intelligence** — Designed for longitudinal patient record analysis and evidence-grounded insights
+- 🔍 **RAG Pipeline** — Patient records → embeddings → vector search → retrieved clinical context → grounded LLM response
+- 💾 **Local AI & Memory** — Runs locally using Qwen 2.5 with ChromaDB-based semantic retrieval
+- 🏗️ **Generational Architecture** — Clinical Brain + Memory/RAG built, with Vision and multimodal capabilities planned
+
+🚧 **Current Status:** Generation 1 — Clinical Brain ✅ | Generation 2 — Memory/RAG ✅
+
+🔗 [**View Project →**](https://github.com/Suvidh21/MIGI)
+
+### 🔹 Project 2
 ### 🧊 CUBE — Service Request Data Management & Visualization
 
 > An ETL-driven desktop + web analytics application built to transform raw Service Request data into actionable operational insights, automated reports, and interactive visualizations.
@@ -55,9 +73,6 @@ Git • GitHub • VS Code
 💼 **Developed & deployed during my internship at Secure Meters Ltd.**
 
 🔗 [**View Project →**](https://github.com/Suvidh21/CUBE)
-
-### 🔹 Project 2
-> Coming soon...
 
 ### 🔹 Project 3
 > Coming soon...
