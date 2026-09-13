@@ -17,14 +17,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a software developer who enjoys building projects, exploring new technologies,
-and turning ideas into working solutions.
+I'm a software developer who enjoys turning ideas into working software
+and learning by building real projects.
 
-- 🔭 Currently building and experimenting with new projects
-- 🌱 Constantly learning and improving my development skills
-- 💡 Interested in software development, AI/ML and useful applications
-- 🚀 I learn best by building real things
-
+- 🤖 Exploring AI/ML, LLMs and modern AI architectures
+- 🧩 Interested in backend development, data processing and automation
+- 🛠️ I enjoy understanding how things work and building them from scratch
+- 🌱 Currently deepening my skills through hands-on projects
+- 🚀 Always experimenting with something new
 ---
 
 ## 🛠️ Tech Stack
