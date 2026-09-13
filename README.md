@@ -112,12 +112,7 @@ and learning by building real projects.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suvidh21&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvidh21&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
 
 ---
 
