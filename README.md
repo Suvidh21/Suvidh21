@@ -40,10 +40,9 @@ and turning ideas into working solutions.
 
 ### 🌐 Web Development
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C8A5A?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
 ### 🤖 AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
