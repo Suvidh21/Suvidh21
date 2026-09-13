@@ -5,7 +5,6 @@
 ### 💻 Software Developer | 🐍 Python | 🌐 Web | 🤖 AI/ML
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+solve+problems+🚀;Learning+%26+experimenting+every+day+🌱;Turning+ideas+into+working+projects+💡" alt="Typing SVG" />
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suvidh21)
