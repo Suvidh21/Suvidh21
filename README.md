@@ -112,10 +112,6 @@ and learning by building real projects.
 
 ---
 
-
-
----
-
 <div align="center">
 
 ### ✨ Thanks for stopping by!
