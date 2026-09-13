@@ -75,7 +75,20 @@ Git • GitHub • VS Code
 🔗 [**View Project →**](https://github.com/Suvidh21/CUBE)
 
 ### 🔹 Project 3
-> Coming soon...
+### 🎙️ LIFE-TRACKER — AI Voice Productivity Assistant
+
+> An AI-powered voice productivity assistant that turns natural conversations and voice inputs into organized, actionable tasks and schedules.
+
+**🛠️ Python · Flask · Faster-Whisper · Hugging Face Transformers · FFmpeg**
+
+- 🎙️ **Voice-to-Task Pipeline** — Converts spoken input into actionable tasks
+- 🧠 **AI-Powered Processing** — Uses speech recognition and NLP to understand task-related conversations
+- 📅 **Automatic Scheduling** — Organizes tasks for the following day
+- 🌐 **Web Application** — Lightweight Flask-based interface
+
+🎓 **College Project**
+
+🔗 [**View Project →**](https://github.com/Suvidh21/LIFE-TRACKER)
 
 ---
 
